@@ -1,0 +1,5 @@
+!VAQL_C.exe
+*.o
+Makefile.win
+VAQL_C.dev
+VAQL_C.layout
